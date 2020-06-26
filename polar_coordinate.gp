@@ -17,7 +17,7 @@ rgrid=10
 set trange [0:350]
 set rrange [0:r]
 
-set xzeroaxis linetype 0 linewidth 2.000
+set xzeroaxis linetype 0 linewidth 1.000
 set yzeroaxis linetype 0 linewidth 1.000
 
 unset xtics
