@@ -1,2 +1,2 @@
 # polar_coordinate_plot
-Plotting polar coordinates using gnuplot.
+Plotting data on polar coordinates using gnuplot.
